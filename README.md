@@ -4,7 +4,7 @@ Hello, I'm Michael Tarsitano.
 
 ` LINKS `
 
-[\[Leet Code Profile\]](https://leetcode.com/u/MichaelTarsitano/)
+[\[LeetCode Profile\]](https://leetcode.com/u/MichaelTarsitano/)
 
 `BIOGRAPHY`
 
