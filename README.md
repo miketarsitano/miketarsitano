@@ -1,4 +1,4 @@
-`GREETING`
+`INTRO`
 
 Hello, I'm Michael Tarsitano.
 
