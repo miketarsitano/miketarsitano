@@ -5,6 +5,7 @@ Hello, I'm Michael Tarsitano. Hobbyist Programmer. Level Designer. Gameplay Desi
 ` LINKS `
 
 [\[LeetCode Profile\]](https://leetcode.com/u/MichaelTarsitano/)
+[\[LinkedIn\]](linkedin.com/in/michael-tarsitano)
 
 `BIOGRAPHY`
 
